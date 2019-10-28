@@ -1,0 +1,12 @@
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\bin\Debug\GradeBook.xml
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.vbprojAssemblyReference.cache
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.Form1.resources
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.Resources.resources
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.vbproj.GenerateResource.cache
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.vbproj.CoreCompileInputs.cache
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.exe
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.xml
+C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
