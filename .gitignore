@@ -328,3 +328,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+GradeBook/bin/Debug/GradeBook.exe
+GradeBook/bin/Debug/GradeBook.pdb

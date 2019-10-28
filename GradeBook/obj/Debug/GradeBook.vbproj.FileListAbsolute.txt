@@ -10,3 +10,14 @@ C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBo
 C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.exe
 C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.xml
 C:\Users\Bermuda College User\source\repos\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
+D:\Brandon\GitHub\School\GradeBook\bin\Debug\GradeBook.exe.config
+D:\Brandon\GitHub\School\GradeBook\bin\Debug\GradeBook.exe
+D:\Brandon\GitHub\School\GradeBook\bin\Debug\GradeBook.pdb
+D:\Brandon\GitHub\School\GradeBook\bin\Debug\GradeBook.xml
+D:\Brandon\GitHub\School\GradeBook\obj\Debug\GradeBook.vbprojAssemblyReference.cache
+D:\Brandon\GitHub\School\GradeBook\obj\Debug\GradeBook.Form1.resources
+D:\Brandon\GitHub\School\GradeBook\obj\Debug\GradeBook.Resources.resources
+D:\Brandon\GitHub\School\GradeBook\obj\Debug\GradeBook.vbproj.GenerateResource.cache
+D:\Brandon\GitHub\School\GradeBook\obj\Debug\GradeBook.exe
+D:\Brandon\GitHub\School\GradeBook\obj\Debug\GradeBook.xml
+D:\Brandon\GitHub\School\GradeBook\obj\Debug\GradeBook.pdb

@@ -77,9 +77,9 @@ Partial Class Form1
         Me.LBLOutputGrade.AutoSize = True
         Me.LBLOutputGrade.Location = New System.Drawing.Point(188, 177)
         Me.LBLOutputGrade.Name = "LBLOutputGrade"
-        Me.LBLOutputGrade.Size = New System.Drawing.Size(39, 13)
+        Me.LBLOutputGrade.Size = New System.Drawing.Size(120, 13)
         Me.LBLOutputGrade.TabIndex = 5
-        Me.LBLOutputGrade.Text = "Label4"
+        Me.LBLOutputGrade.Text = "THIS IS YOUR GRADE"
         '
         'BTNCalculate
         '
@@ -92,6 +92,7 @@ Partial Class Form1
         '
         'Form1
         '
+        Me.AcceptButton = Me.BTNCalculate
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
